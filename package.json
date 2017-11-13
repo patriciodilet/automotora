@@ -1,0 +1,17 @@
+{
+  "name": "enlacemercado",
+  "version": "1.0.0",
+  "description": "bot de enlacemercado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chatxbot.com",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "botbuilder": "^3.11.0",
+    "dotenv-extended": "^2.0.1",
+    "restify": "^6.3.2"
+  }
+}
